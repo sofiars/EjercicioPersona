@@ -1,0 +1,1 @@
+E:\sofia\Documents\holamundo\build\classes\kotlin\main\MainKt.class;E:\sofia\Documents\holamundo\build\classes\kotlin\main\View\VistaPersona.class;E:\sofia\Documents\holamundo\build\classes\kotlin\main\controller\PersonaController.class;E:\sofia\Documents\holamundo\build\classes\kotlin\main\modelo\Persona.class
